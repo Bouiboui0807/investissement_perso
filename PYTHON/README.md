@@ -6,6 +6,7 @@
   <li>DecToIEEE754 : Returns the hexadecimal IEEE754 standard value of a given float number.</li>
   <li>IEEE754ToDec : Returns the decimal float value of a given hexadecimal IEEE754 standard value.</li>
 </u>
+<p></p>
 <p>Here is some things you need to have to run files :</p>
 <u>
   <li>QR Generator : Needs Pillow and Turtle library</li>
