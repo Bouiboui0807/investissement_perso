@@ -1,2 +1,2 @@
-<h2>You are in the Aide_CDI folder</h2>
-<p>This code was initially made for my Highschool to search for a movie in a directory. The folder "TEST_CDI" was made to test the program but is not uploadable on the plateform. This program is made to search under specific conditions.</p>
+<h2>Vous êtes dans le dossier Aide_CDI</h2>
+<p>Ce code a initiallement été développé pour mon Lycée afin d'aider le personnel enseignant et du CDI à trouver les films présents dans un répertoire selon des mots-clés. Le dossier "TEST_CDI" a été créé pour tester le programme mais ne peut pas être envoyé sur la plateforme. Ce programme est fait pour chercher sous des conditions spécifiques.</p>
