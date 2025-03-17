@@ -1,4 +1,4 @@
-<h2>This repository is where all my important codes are.</h2>
+<h2>Ceci est le répertoire où sont stockés mes programmes les plus importants.</h2>
 <p>
-  Feel free to explore every program, everything was made by me. Every program is sorted by language in different folders. <b>Make sure to read the README files !</b>
+  Explorez chaque programme de ce dépôt, tous les codes ont été programmés de ma main. Chaque programme est trié selon son langage dans chaque dossier. <b>Veuillez lire les fichiers README !</b>
 </p>
