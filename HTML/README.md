@@ -1,2 +1,2 @@
-<h2>You are in the HTML folder</h2>
-<p>You will find here some projects (old projects mainly) I coded. Make sure every file from a project folder is in the same folder when downloaded, else images won't be found.</p>
+<h2>Vous êtes dans le dossier HTML</h2>
+<p>Vous trouverez ici quelques projets (souvent vieux) codés en HTML. Vérifiez que chaque fichier du dossier github est présent dans le même dossier lors du téléchargement, des images pourraient ne pas être trouvées si ce n'est pas le cas.</p>
