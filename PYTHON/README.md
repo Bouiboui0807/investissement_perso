@@ -1,14 +1,14 @@
-<h2>You are in the Python folder.</h2>
-<p>Here is a small description for every program :</p>
+<h2>Vous êtes dans le dossier Python.</h2>
+<p>Voici une petite description pour chaque programme :</p>
 <u>
-  <li>QR Generator : Generates a QR code for a given text (can be an url).</li>
-  <li>Ciphercode : Encodes in Cipher a given text or Decodes a Cipher coded text (needs the key).</li>
-  <li>DecToIEEE754 : Returns the hexadecimal IEEE754 standard value of a given float number.</li>
-  <li>IEEE754ToDec : Returns the decimal float value of a given hexadecimal IEEE754 standard value.</li>
+  <li>QR Generator : Génère un QR code pour un texte donné (peut être une url).</li>
+  <li>Ciphercode : Encode un texte en Cipher ou décode un code Cipher à l'aide de la clé.</li>
+  <li>DecToIEEE754 : Renvoie la valeur hexadécimale de norme IEEE754 d'un nombre à virgule.</li>
+  <li>IEEE754ToDec : Renvoie la valeur décimale d'un nombre hexadécimal de norme IEEE754.</li>
 </u>
 <p></p>
-<p>Here is some things you need to have to run files :</p>
+<p>Voici certains prérequis pour exécuter certains codes :</p>
 <u>
-  <li>QR Generator : Needs Pillow and Turtle library</li>
-  <li>Ciphercode : Needs Unicodedata library</li>
+  <li>QR Generator : Nécessite la bibliothèque Pillow et Turtle.</li>
+  <li>Ciphercode : Nécessite la bibliothèque unicodedata.</li>
 </u>
