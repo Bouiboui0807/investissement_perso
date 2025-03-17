@@ -1,2 +1,2 @@
-<h2>You are in the PageDev folder.</h2>
-<p>Here you will find a page developped in 2024. This page was coded in french.</p>
+<h2>Vous êtes dans le dossier PageDev.</h2>
+<p>Vous trouverez ici une page développée en 2024, elle a été écrite en français.</p>
